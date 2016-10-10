@@ -1,3 +1,4 @@
 obj/*
 bin/*
 TestResult.xml
+project.lock.json
